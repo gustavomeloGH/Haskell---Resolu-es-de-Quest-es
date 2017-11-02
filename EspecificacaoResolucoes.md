@@ -1,11 +1,4 @@
 
--- OBS1: Uso do (-1) para condições nao permitidas
--- OBS2: As Forma1 utilizam funções do proprio HASKELL, Forma2 foram feitas por mim.
-import Data.Char 
--- OBS3: As FORMA NOVA, fiz na revisão da prova, com mais conhecimentos sobre lists compr.
-
-
-
 <h1><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>
 Resolução de Exercícios - Haskell/h1>
 
