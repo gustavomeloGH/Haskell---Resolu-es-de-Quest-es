@@ -1,0 +1,10 @@
+--RESOLUCAO DE EXERCICIO DA FICHA 1
+
+
+import Numeric (showHex, showIntAtBase)
+import Data.Char (intToDigit)
+
+-- OBS1: Uso do (-1) para condições nao permitidas
+-- OBS2: As Forma1 utilizam funções do proprio HASKELL, Forma2 foram feitas por mim.
+import Data.Char 
+-- OBS3: As FORMA NOVA, fiz na revisão da prova, com mais conhecimentos sobre lists compr.
