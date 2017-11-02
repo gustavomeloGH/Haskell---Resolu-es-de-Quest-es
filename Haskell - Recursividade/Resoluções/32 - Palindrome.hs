@@ -1,6 +1,11 @@
-        -- 33.) PRIMO
+       -- 32.) PALINDROME
 
-primo :: Int -> Bool
-primo 1 = True
-primo n = length([x | x <- [1..n], n `mod` x == 0]) == 2
+
+palindrome :: String -> Bool
+palindrome [] = False
+palindrome (a:x)
+    | (length (a:x) == 1) = True
+    | (length (a:x) == 2) = (a == last(a:x))
+    | (a == last(x)) = palindrome (init(x))
+    | otherwise = False
 
