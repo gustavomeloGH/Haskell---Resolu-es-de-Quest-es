@@ -24,11 +24,5 @@
   <li>
     <p><p><a href="https://lokkr-28f16.firebaseapp.com/" target="_blank">Donwlod do Haskell aqui.</a></p></p>
   </li>
-  <li>
-    <p>Caso deseje verificar as funcionlidades dentro do DASHBOARD, entre em contato através de E-mail.</p>
-  </li>
-  <li>
-    <p>Veja as fotos do site em anexo.</p>
-  </li>
 </ul>
 
